@@ -1,1 +1,1 @@
-select * from firefighter_info;
+select * from firefighter_info where status='On-Duty';
