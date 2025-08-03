@@ -1,1 +1,0 @@
-select * from firefighter_info where status='Off-Duty';
