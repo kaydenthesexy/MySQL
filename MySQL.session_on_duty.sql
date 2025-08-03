@@ -1,4 +1,3 @@
-
 -- Step 1: Create the table
 CREATE TABLE firefighters_info (
     name VARCHAR(50),
